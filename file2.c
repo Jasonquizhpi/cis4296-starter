@@ -13,5 +13,6 @@ int main(){
   else{
     printf("\nThe wheather is bad!");
   }
+  //random comment
   return 0;
 }
